@@ -1,6 +1,6 @@
 <p align=center><a href="https://arwildo.com/"><img src="https://arwildo.com/logo.png" width="32"></img></a></p> 
 <p align=center> 
-  <img src="https://raw.githubusercontent.com/arwildo/arwildo.github.io/master/src/images/arwildo.png" width="800">
+  <img src="https://raw.githubusercontent.com/arwildo/blue-bubble/refs/heads/main/public/assets/images/arwildo.png" width="800">
 </p>
 <p align=center> 
   <a href="https://arwildo.com/"><img src="https://arwildo.com/logo.png" width="16"></img> Arwildo</a>
