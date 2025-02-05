@@ -4,7 +4,7 @@
     {
       "title" : "Akunter",
       "img" : "akunter.webp",
-      "icon" : "akunter-icon.ico",
+      "icon" : "akunter-icon.webp",
       "desc" : "Full-stack DRRM (Django, React, Redux, MySQL) application to handle accounting and databases of small businesses.",
       "get" : "https://github.com/arwildo/akunter",
       "live" : "https://arwildo.com/akunter"
