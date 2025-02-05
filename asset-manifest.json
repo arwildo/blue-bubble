@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/blue-bubble/static/css/main.967ac3ad.css",
-    "main.js": "/blue-bubble/static/js/main.ab3eb2cf.js",
+    "main.js": "/blue-bubble/static/js/main.955a00c0.js",
     "static/media/CircularStd-Book.woff": "/blue-bubble/static/media/CircularStd-Book.e6a58ec19935a9f4b5ee.woff",
     "index.html": "/blue-bubble/index.html",
     "main.967ac3ad.css.map": "/blue-bubble/static/css/main.967ac3ad.css.map",
-    "main.ab3eb2cf.js.map": "/blue-bubble/static/js/main.ab3eb2cf.js.map"
+    "main.955a00c0.js.map": "/blue-bubble/static/js/main.955a00c0.js.map"
   },
   "entrypoints": [
     "static/css/main.967ac3ad.css",
-    "static/js/main.ab3eb2cf.js"
+    "static/js/main.955a00c0.js"
   ]
 }
